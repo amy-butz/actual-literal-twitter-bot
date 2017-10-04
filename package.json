@@ -40,77 +40,13 @@
   },
   "snyk": true,
   "contributors": [
-    {
-      "name": "Will Hurley",
-      "email": null,
-      "url": "https://github.com/wjhurley",
-      "contributions": 9,
-      "additions": 66,
-      "deletions": 66,
-      "hireable": true
-    },
-    {
-      "name": "Joshua Vaage",
-      "email": null,
-      "url": "https://github.com/whaleen",
-      "contributions": 1,
-      "additions": 1,
-      "deletions": 0,
-      "hireable": true
-    },
-    {
-      "name": "Snyk bot",
-      "email": null,
-      "url": "https://github.com/snyk-bot",
-      "contributions": 1,
-      "additions": 19,
-      "deletions": 3,
-      "hireable": null
-    },
-    {
-      "name": "Jade Thornton",
-      "email": null,
-      "url": "https://github.com/Raindeer44",
-      "contributions": 1,
-      "additions": 1,
-      "deletions": 2,
-      "hireable": true
-    },
-    {
-      "name": "Scott Spence",
-      "email": null,
-      "url": "https://github.com/spences10",
-      "contributions": 121,
-      "additions": 16209,
-      "deletions": 11605,
-      "hireable": true
-    },
-    {
-      "name": "Sergio Ruiz",
-      "email": null,
-      "url": "https://github.com/serginator",
-      "contributions": 3,
-      "additions": 22,
-      "deletions": 4,
-      "hireable": null
-    },
-    {
-      "name": "Paul Abrams",
-      "email": null,
-      "url": "https://github.com/pabrams",
-      "contributions": 1,
-      "additions": 3,
-      "deletions": 3,
-      "hireable": null
-    },
-    {
-      "name": "Millan Sanchez",
-      "email": null,
-      "url": "https://github.com/masdc",
-      "contributions": 2,
-      "additions": 5,
-      "deletions": 2,
-      "hireable": null
-    }
+    "Will Hurley (https://github.com/wjhurley)",
+    "Joshua Vaage (https://github.com/whaleen)",
+    "Snyk bot (https://github.com/snyk-bot)",
+    "Jade Thornton (https://github.com/Raindeer44)",
+    "Scott Spence (https://github.com/spences10)",
+    "Sergio Ruiz (https://github.com/serginator)",
+    "Paul Abrams (https://github.com/pabrams)",
+    "Millan Sanchez (https://github.com/masdc)"
   ]
 }
