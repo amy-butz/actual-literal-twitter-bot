@@ -11,7 +11,6 @@ const retweet = require('./api/retweet')
 const reply = require('./api/reply')
 
 console.rofl('Bot starting...')
-console.log('Bot is operational')
 
 // retweet on keywords
 retweet()
