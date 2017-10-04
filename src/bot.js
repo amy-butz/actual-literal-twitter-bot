@@ -10,7 +10,7 @@ const bot = new Twit(config.twitterKeys)
 const retweet = require('./api/retweet')
 const reply = require('./api/reply')
 
-console.rofl('Bot starting...')
+console.rofl('Bot starting now...')
 
 // retweet on keywords
 retweet()
